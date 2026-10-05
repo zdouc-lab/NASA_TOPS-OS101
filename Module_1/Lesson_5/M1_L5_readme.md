@@ -367,7 +367,7 @@ There are many repositories that host open data, software, and results. We share
 
 ### Continue Taking TOPS Open Science 101
 
-<img src="../images/media/image368.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image368.jpg" style="width: 100%; height: auto;" />
 
 The TOPS Open Science 101 curriculum is a good place to go for a more in-depth introduction to the various elements of Open Science – each of the next 4 modules provides details and practical exercises to help participants develop a better understanding of that specific topic.
 
