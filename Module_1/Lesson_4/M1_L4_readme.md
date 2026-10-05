@@ -116,7 +116,7 @@ Incentives can come in many forms, but most in science involve proposal funding 
 
 #### Challenge: Overvaluing Novelty
 
-<img src="../images/media/image330.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image330.png" style="width: 100%; height: auto;" />
 
 Awards (for example prizes or funding) are often given to those who make a big, new scientific discoveries or who create a new, exciting tool. This practice overlooks the community that wrote code, curated datasets, maintained fundamental existing tools, and many other important steps that enabled these novelties.
 
@@ -140,7 +140,7 @@ Image credit: NASA 2023 @ Stennis Space Center.
 
 Conferences are open places – most of the time. Think about who can attend a conference. How open/closed is it?
 
-<img style="width:350px;height:auto;" src="../images/media/subscribetojournal.jpg">
+<img style="width:350px;height:auto;" src="../images/media/subscribetojournal.png">
 
 Publications can have both open and closed elements. How is it open?
 
