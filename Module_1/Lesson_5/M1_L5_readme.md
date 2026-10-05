@@ -104,7 +104,7 @@ Research materials are valuable and reusable long after the project's financial 
 
 ### Open Science Applies to the Entire Workﬂow
 
-<img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image402.png" style="width: 100%; height: auto;" />
 
 Open Science Workflow Phases Source: Opensciency
 
