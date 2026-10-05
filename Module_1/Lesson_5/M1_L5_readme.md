@@ -309,7 +309,7 @@ But they didn’t have to to start from scratch! The ERS-TRANSIT team was able t
             <td>Availability</td>
             <td>
                 <p>All aggregated into <a href="https://zenodo.org/communities/ers-transit">Zenodo Community</a> with individual contributing authors and DOIs</p>
-                <p><img src="../images/media/zenodojwst.jpg" style="width: 100%; height: auto;" /></p>
+                <p><img src="../images/media/zenodojwst.png" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
