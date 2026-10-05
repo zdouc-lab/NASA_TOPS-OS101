@@ -284,7 +284,7 @@ But they didn’t have to to start from scratch! The ERS-TRANSIT team was able t
 
 ### Open Access to Results
 
-<img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image244.png" style="width: 100%; height: auto;" />
 
 <table>
     <table>
