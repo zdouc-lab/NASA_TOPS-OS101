@@ -269,7 +269,7 @@ The team grew to almost 400 people, all working together, all knowing what to ex
             <td>Availability</td>
             <td>
                 <p>Code on <i>GitHub</i>, released on <i>Zenodo</i>, documents released in <i>Journal of Open Source Software</i> (an open access journal)</p>
-                <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /></p>
+                <p><img src="../images/media/image221.png" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
