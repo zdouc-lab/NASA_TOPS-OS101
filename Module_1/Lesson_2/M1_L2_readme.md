@@ -67,7 +67,7 @@ Well-documented research products also demonstrate the quality of your work, whi
 
 In addition to documenting your own research, the practice of giving credit to everyone who has contributed will strengthen your scientific community reputation and actualize the shared values of open science. As people gain confidence in the benefits of cooperative research, they will also start giving credit to more contributions that might previously have gone unacknowledged. Different work performed as part of a paper can be given in an author contribution statement like the example shared here.
 
-<img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image260.png" style="width: 100%; height: auto;" />
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. DOI: 10.5281/zenodo.3332807.
 
