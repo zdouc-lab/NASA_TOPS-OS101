@@ -244,7 +244,7 @@ The team grew to almost 400 people, all working together, all knowing what to ex
 
 ### Open-Source Software**
 
-<img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image6.png" style="width: 100%; height: auto;" />
 
 <table>
     <table>
