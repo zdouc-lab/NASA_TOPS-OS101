@@ -59,7 +59,7 @@ Open science practices and principles can be applied to all stages of the resear
 - Are short-period planets (like Mercury) more common than those on long orbits (like Mars)?
 - Do planets more commonly occur around stars like the Sun, or around the more numerous, cooler, smaller red dwarfs?
 
-<img src="../images/media/image266.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image266.png" style="width: 100%; height: auto;" />
 
 "Stargazing Live", a live television program, took place across three consecutive nights in 2017. The hosts invited viewers to contribute to their research question by classifying solar systems from an open access dataset. Within 48 hours of the program's
 debut, more than 10,000 people had participated in [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) and classified over 2 million systems.
