@@ -114,7 +114,7 @@ Regardless of your science discipline or the methodology that you use, the workf
 
 Products created throughout the scientific process are needed to enable others to reproduce the findings. Researchers who wish to make their results reproducible must make key elements of their study openly available for others to test.
 
-<img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image130.png" style="width: 100%; height: auto;" />
 
 Open Science Workflow Products Source: Opensciency
 
