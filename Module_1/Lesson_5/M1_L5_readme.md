@@ -185,7 +185,7 @@ was the first detection of Carbon Dioxide in the atmosphere of a planet orbiting
 
 Image Credit: @AdobeStock 2023, dimazel
 
-<img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp.png" style="width: 100%; height: auto;" />
 
 Figure Credit: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
