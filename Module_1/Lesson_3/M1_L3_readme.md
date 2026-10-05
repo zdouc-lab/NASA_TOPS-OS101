@@ -35,7 +35,7 @@ When the release of data or research can lead to national security concerns, the
 
 *NASA has collected human spaceflight biomedical data since the start of Apollo...*
 
-<img src="../images/media/image259.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image259.png" style="width: 100%; height: auto;" />
 
 *... but the only human data in the Life Sciences Data Archive are from astronauts who signed releases for their data to be public.*
 
@@ -125,7 +125,7 @@ If you submit your manuscript to a publisher that requires that they own the cop
 
 Example: In scenarios where seeking consent before sharing (or changing sharing conditions), it can be complex to implement the changes. Biopython, an open source biology toolkit, started re- licensing their code in 2016, and [are still working on it in 2023, individual contributor by individual contributor.](https://github.com/biopython/biopython/issues/898)
 
-<img src="../images/media/image106.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image106.png" style="width: 100%; height: auto;" />
 
 ### Licensing
 
@@ -139,7 +139,7 @@ Licensing is a way to help to allow others to reuse your work legally. It is a w
 
 ---
 
-<img src="../images/media/image328.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image328.png" style="width: 350px; height: auto;" />
 
 Image credit: XKCD: CC BY-NC 2.5 DEEX 
 
